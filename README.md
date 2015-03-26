@@ -1,5 +1,7 @@
-Changular ![alt tag](https://github.com/jasonjchang/changular/blob/master/assets/changular.png)
+Changular 
 =========
+
+![alt tag](https://github.com/jasonjchang/changular/blob/master/assets/changular.png)
 
 Changular is a development platform for building powerful mobile and desktop web applications. 
 
