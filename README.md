@@ -1,13 +1,10 @@
-Changular
+Changular ![alt tag](https://github.com/jasonjchang/changular/blob/master/assets/changular.png)
 =========
 
-Changular is a development platform for building mobile and desktop web applications. 
+Changular is a development platform for building powerful mobile and desktop web applications. 
 
 Changular 2 is currently in **Alpha Preview**. We recommend using Changular 1.X for production
 applications:
-
-* [ChangularJS][ngJS]: [Changular/Changular.js](http://github.com/Changular/Changular.js).
-* [ChangularDart][ngDart]: [Changular/Changular.dart](http://github.com/Changular/Changular.dart).
 
 
 ## Setup & Install Changular 2
@@ -53,4 +50,4 @@ You can build this example as either JS or Dart app:
 [ngDart]: http://Changulardart.org
 [ngJS]: http://Changularjs.org
 
-** NOTE THIS IS PURELY FOR SATIRE **
+** NOTE THIS IS PURELY FOR SATIRE - IF YOU FIND THIS FUNNY YOU SHOULD DEFINITELY CHECKOUT THE ORIGINAL ANGULAR AND RESPECTIVE TEAM **
