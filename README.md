@@ -1,8 +1,7 @@
-Changular [![Build Status](https://travis-ci.org/Changular/Changular.svg?branch=master)](https://travis-ci.org/Changular/Changular) [![Join the chat at https://gitter.im/Changular/Changular](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Changular/Changular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Changular
 =========
 
-Changular is a development platform for building mobile and desktop web applications. This is the
-repository for [Changular 2][ng2], both the JavaScript (JS) and [Dart][dart] versions.
+Changular is a development platform for building mobile and desktop web applications. 
 
 Changular 2 is currently in **Alpha Preview**. We recommend using Changular 1.X for production
 applications:
@@ -14,6 +13,8 @@ applications:
 ## Setup & Install Changular 2
 
 Follow the instructions given on the [Changular download page][download].
+
+Simply load changular.module(myChang, []); to load your application!
 
 
 ## Want to help?
@@ -51,3 +52,5 @@ You can build this example as either JS or Dart app:
 [ng2]: http://Changular.io
 [ngDart]: http://Changulardart.org
 [ngJS]: http://Changularjs.org
+
+** NOTE THIS IS PURELY FOR SATIRE **
