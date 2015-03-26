@@ -13,7 +13,9 @@ applications:
 
 Follow the instructions given on the [Changular download page][download].
 
-Simply load changular.module(myChang, []); to load your application!
+Simply load `changular.module(myChang, []);` to begin loading your Changular application!
+
+To run Changular directives simply use `chang-<directive>`
 
 
 ## Want to help?
