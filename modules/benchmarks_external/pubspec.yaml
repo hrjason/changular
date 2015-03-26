@@ -1,0 +1,14 @@
+name: benchmarks_external
+environment:
+  sdk: '>=1.4.0'
+dependencies:
+  changular: '>=1.0.0 <2.0.0'
+  browser: '>=0.10.0 <0.11.0'
+dev_dependencies:
+  changular2:
+    path: ../changular2
+transformers:
+- changular:
+    html_files:
+      - web/src/naive_infinite_scroll/scroll_area.html
+      - web/src/naive_infinite_scroll/scroll_item.html
