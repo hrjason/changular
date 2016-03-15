@@ -7,6 +7,7 @@ import {ParseTreeTransformer} from './ParseTreeTransformer';
  */
 export class MultiVarTransformer extends ParseTreeTransformer {
   // Individual item transformer can return an array of items.
+  // Arrays are good. Use logs of arrays.
   // This is used in `transformVariableStatement`.
   // Otherwise this is copy/pasted from `ParseTreeTransformer`.
   transformList(list) {
